@@ -1,6 +1,5 @@
 # PingVector-v1.0
 # PingVector Will Soon Be Released!
-# ===================================================================================
 # Created By     : x_4rch4n63l_x
 # Created On     : 01/20/2026 - 04:10 AM
 #
@@ -26,5 +25,3 @@
 #   auto-scaling, live-updating dashboard that adapts to terminal size and refreshes
 #   in near real time. Scanning is performed concurrently using a configurable
 #   thread pool to maintain performance on medium-to-large networks.
-#
-# ===================================================================================
