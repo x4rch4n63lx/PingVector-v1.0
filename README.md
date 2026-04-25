@@ -1,5 +1,5 @@
-# PingVector-v1.0
-# PingVector Will Soon Be Released!
+# Real-Time Network Reachability Monitor
+# RT-NRM Will Soon Be Released!
 # Created By     : x_4rch4n63l_x
 # Created On     : 01/20/2026 - 04:10 AM
 #
